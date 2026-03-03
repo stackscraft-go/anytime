@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/stackscraft-go/anytime/actions/workflows/ci.yml/badge.svg)](https://github.com/stackscraft-go/anytime/actions/workflows/ci.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/stackscraft-go/anytime.svg)](https://pkg.go.dev/github.com/stackscraft-go/anytime)
+[![Go Report Card](https://goreportcard.com/badge/github.com/stackscraft-go/anytime)](https://goreportcard.com/report/github.com/stackscraft-go/anytime)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 `anytime` is a small Go package for parsing real-world date and datetime
